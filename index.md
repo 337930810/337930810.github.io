@@ -3,7 +3,7 @@
 ## wiki页面
 [zhangxixi.nat123.net](http://zhangxixi.nat123.net) 
 ## Test页面
-[test页面](http://zhang-xixi.github.io/test.md)
+[test页面](http://zhang-xixi.github.io/test.html)
 
 ## Welcome to GitHub Pages
 
