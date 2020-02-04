@@ -1,5 +1,7 @@
 ## XiXi的主页
 [zhang-xixi.github.io](http://zhang-xixi.github.io) 
+## github页面
+[github](http://github.com/zhang-xixi)
 ## wiki页面
 [zhangxixi.nat123.net](http://zhangxixi.nat123.net) 
 ## Test页面
