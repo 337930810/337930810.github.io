@@ -7,4 +7,5 @@
 [zhangxixi.nat123.net](http://zhangxixi.nat123.net) 
 
 [test](http://zhang-xixi.github.io/test.html)
+[test.txt](http://zhang-xixi.github.io/test/test.txt)
 
