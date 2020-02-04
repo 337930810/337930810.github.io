@@ -1,10 +1,7 @@
 ## XiXi的主页
-zhang-xixi.github.io
-[editor on GitHub](https://github.com/337930810/337930810.github.io/edit/master/index.md)
- [zhang-xixi.github.io](http://zhang-xixi.github.io) 
+[zhang-xixi.github.io](http://zhang-xixi.github.io) 
 ## wiki页面
-zhangxixi.nat123.net
- [zhangxixi.nat123.net](http://zhangxixi.nat123.net) 
+[zhangxixi.nat123.net](http://zhangxixi.nat123.net) 
 
 ## Welcome to GitHub Pages
 
