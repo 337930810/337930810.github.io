@@ -2,6 +2,8 @@
 [zhang-xixi.github.io](http://zhang-xixi.github.io) 
 ## wiki页面
 [zhangxixi.nat123.net](http://zhangxixi.nat123.net) 
+## Test页面
+[test页面](http://zhang-xixi.github.io/test.md)
 
 ## Welcome to GitHub Pages
 
