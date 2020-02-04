@@ -6,4 +6,5 @@
 ## wiki页面
 [zhangxixi.nat123.net](http://zhangxixi.nat123.net) 
 
-"/test.html"
+[test](/test.html)
+
