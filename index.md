@@ -3,7 +3,7 @@
 ## github页面
 [github](http://github.com/zhang-xixi)
 ## wiki页面
-[zhangxixi.nat123.net](http://zhangxixi.nat123.net) 
+[pi_web](http://cn-cd-dx-2.natfrp.cloud:41098) 
 ## Test页面
 [test页面](http://zhang-xixi.github.io/test.html)
 
