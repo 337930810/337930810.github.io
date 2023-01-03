@@ -7,6 +7,8 @@
 
 [pi_web_ip](http://61.139.65.143:41098) 61.139.65.143:41098
 
+[pi_web_ssh](http://cn-hn-dx-2.natfrp.cloud:42038) cn-hn-dx-2.natfrp.cloud:42038
+
 pi_ssh 61.139.65.143:58113
 
 ## Test页面
