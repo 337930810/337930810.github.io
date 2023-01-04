@@ -3,11 +3,13 @@
 ## github页面
 [github](http://github.com/zhang-xixi)
 ## wiki页面
-[pi_web](http://cn-cd-dx-2.natfrp.cloud:41098) http://cn-cd-dx-2.natfrp.cloud:41098
+[pi_web](https://cn-cd-dx-2.natfrp.cloud:41098) https://cn-cd-dx-2.natfrp.cloud:41098
 
-[pi_web_ip](http://61.139.65.143:41098) 61.139.65.143:41098
+[pi_web_ip](https://61.139.65.143:41098) 61.139.65.143:41098
 
-[pi_web_ssh](http://cn-hn-dx-2.natfrp.cloud:42038) cn-hn-dx-2.natfrp.cloud:42038
+[pi_web_ssh](https://cn-hn-dx-2.natfrp.cloud:42038) cn-hn-dx-2.natfrp.cloud:42038
+
+[pi_ownCloud](https://cn-cd-dx-4.natfrp.cloud:20072/) https://cn-cd-dx-4.natfrp.cloud:20072/
 
 pi_ssh 61.139.65.143:58113
 
