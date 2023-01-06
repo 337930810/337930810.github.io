@@ -9,7 +9,7 @@
 
 [pi_web_ssh](https://cn-hn-dx-2.natfrp.cloud:42038) cn-hn-dx-2.natfrp.cloud:42038
 
-[pi_ownCloud](https://cn-cd-dx-4.natfrp.cloud:20072/) https://cn-cd-dx-4.natfrp.cloud:20072/
+[pi_nextCloud](https://cn-cd-dx-4.natfrp.cloud:20072/) https://cn-cd-dx-4.natfrp.cloud:20072/
 
 pi_ssh 61.139.65.143:58113
 
