@@ -13,6 +13,8 @@
 
 pi_ssh 61.139.65.143:58113
 
+[pi_ipv6](http://[2409:8a55:3278:3f90:5616:51ff:0:b34]) http://[2409:8a55:3278:3f90:5616:51ff:0:b34]
+
 ## Test页面
 [test页面](http://zhang-xixi.github.io/test.html)
 
