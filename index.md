@@ -5,6 +5,8 @@
 ## wiki页面
 [pi_web](https://cn-cd-dx-2.natfrp.cloud:41098) https://cn-cd-dx-2.natfrp.cloud:41098
 
+[pi_web](https://cn-cd-dx-2.natfrp.cloud:41098/cmd.php) https://cn-cd-dx-2.natfrp.cloud:41098/cmd.php
+
 [pi_web_ip](https://61.139.65.143:41098) 61.139.65.143:41098
 
 [pi_web_ssh](https://cn-hn-dx-2.natfrp.cloud:42038) cn-hn-dx-2.natfrp.cloud:42038
